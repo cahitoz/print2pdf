@@ -1,0 +1,10 @@
+{
+  "name": "url-to-pdf",
+  "version": "1.0.0",
+  "description": "Generate PDFs from URLs",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^22.0.0"
+  }
+}
